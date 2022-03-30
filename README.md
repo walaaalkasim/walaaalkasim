@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am walaa alkasim
+I've learned html ,css ,javascript,react and 
+currently I am learning 🌱 node express and mongoDb
+so much fun by learning new topics 😄
+
 
 <!--
 **walaaalkasim/walaaalkasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
