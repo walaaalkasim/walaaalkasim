@@ -3,7 +3,9 @@ I've learned html ,css ,javascript,react and
 currently I am learning 🌱 node express and mongoDb
 so much fun by learning new topics 😄.
 see my work here:
-waether app :------>>>>  https://weather-project-sigma.vercel.app/
+weather app :------>>>>  https://weather-project-sigma.vercel.app/
+ecommerce app :---->>>>  https://monumental-florentine-0734e7.netlify.app/
+nasaAPi app :------>>>>  https://space-pr0ject.netlify.app/
 
 
 <!--
