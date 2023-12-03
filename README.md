@@ -2,8 +2,8 @@
 I've learned html ,css ,javascript,react and 
 currently I am learning 🌱 node express and mongoDb
 so much fun by learning new topics 😄.
-see my portfolio here :
-https://e06-2.github.io/uib-final-project-walaaalkasim/
+see my work here:
+waether app :------>>>>  https://weather-project-sigma.vercel.app/
 
 
 <!--
